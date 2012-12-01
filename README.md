@@ -2,7 +2,7 @@ Twitter-Gnip-Stream
 ===================
 This Demo is build as a early version Prototype for ReduceData Inc http://www.reducedata.com/
 
-This Demo collects a large Datasets from Gnip Twitter Stream and uses MySql as the backend Database.
+This Demo collects large Datasets from Gnip Twitter Stream and uses MySql as the backend Database.
 
 
 
